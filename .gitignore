@@ -3,3 +3,10 @@
 ################################################################################
 
 *.cache
+*.json
+*.props
+*.targets
+/TreinamentoSOLID/InterfaceSegregation/obj/Debug/netcoreapp3.1/InterfaceSegregation.csproj.FileListAbsolute.txt
+*.dll
+*.exe
+*.pdb
