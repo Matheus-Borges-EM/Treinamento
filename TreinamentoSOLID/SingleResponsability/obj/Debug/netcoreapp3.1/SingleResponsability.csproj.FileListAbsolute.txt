@@ -1,0 +1,13 @@
+C:\WorkMatheusBorges\Treinamento\TreinamentoSOLID\SingleResponsability\bin\Debug\netcoreapp3.1\SingleResponsability.exe
+C:\WorkMatheusBorges\Treinamento\TreinamentoSOLID\SingleResponsability\bin\Debug\netcoreapp3.1\SingleResponsability.deps.json
+C:\WorkMatheusBorges\Treinamento\TreinamentoSOLID\SingleResponsability\bin\Debug\netcoreapp3.1\SingleResponsability.runtimeconfig.json
+C:\WorkMatheusBorges\Treinamento\TreinamentoSOLID\SingleResponsability\bin\Debug\netcoreapp3.1\SingleResponsability.runtimeconfig.dev.json
+C:\WorkMatheusBorges\Treinamento\TreinamentoSOLID\SingleResponsability\bin\Debug\netcoreapp3.1\SingleResponsability.dll
+C:\WorkMatheusBorges\Treinamento\TreinamentoSOLID\SingleResponsability\bin\Debug\netcoreapp3.1\SingleResponsability.pdb
+C:\WorkMatheusBorges\Treinamento\TreinamentoSOLID\SingleResponsability\obj\Debug\netcoreapp3.1\SingleResponsability.csprojAssemblyReference.cache
+C:\WorkMatheusBorges\Treinamento\TreinamentoSOLID\SingleResponsability\obj\Debug\netcoreapp3.1\SingleResponsability.AssemblyInfoInputs.cache
+C:\WorkMatheusBorges\Treinamento\TreinamentoSOLID\SingleResponsability\obj\Debug\netcoreapp3.1\SingleResponsability.AssemblyInfo.cs
+C:\WorkMatheusBorges\Treinamento\TreinamentoSOLID\SingleResponsability\obj\Debug\netcoreapp3.1\SingleResponsability.csproj.CoreCompileInputs.cache
+C:\WorkMatheusBorges\Treinamento\TreinamentoSOLID\SingleResponsability\obj\Debug\netcoreapp3.1\SingleResponsability.dll
+C:\WorkMatheusBorges\Treinamento\TreinamentoSOLID\SingleResponsability\obj\Debug\netcoreapp3.1\SingleResponsability.pdb
+C:\WorkMatheusBorges\Treinamento\TreinamentoSOLID\SingleResponsability\obj\Debug\netcoreapp3.1\SingleResponsability.genruntimeconfig.cache
