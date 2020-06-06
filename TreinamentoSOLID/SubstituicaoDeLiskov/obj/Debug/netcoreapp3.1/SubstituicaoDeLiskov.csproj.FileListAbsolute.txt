@@ -1,0 +1,13 @@
+C:\WorkMatheusBorges\Treinamento\TreinamentoSOLID\SubstituicaoDeLiskov\bin\Debug\netcoreapp3.1\SubstituicaoDeLiskov.exe
+C:\WorkMatheusBorges\Treinamento\TreinamentoSOLID\SubstituicaoDeLiskov\bin\Debug\netcoreapp3.1\SubstituicaoDeLiskov.deps.json
+C:\WorkMatheusBorges\Treinamento\TreinamentoSOLID\SubstituicaoDeLiskov\bin\Debug\netcoreapp3.1\SubstituicaoDeLiskov.runtimeconfig.json
+C:\WorkMatheusBorges\Treinamento\TreinamentoSOLID\SubstituicaoDeLiskov\bin\Debug\netcoreapp3.1\SubstituicaoDeLiskov.runtimeconfig.dev.json
+C:\WorkMatheusBorges\Treinamento\TreinamentoSOLID\SubstituicaoDeLiskov\bin\Debug\netcoreapp3.1\SubstituicaoDeLiskov.dll
+C:\WorkMatheusBorges\Treinamento\TreinamentoSOLID\SubstituicaoDeLiskov\bin\Debug\netcoreapp3.1\SubstituicaoDeLiskov.pdb
+C:\WorkMatheusBorges\Treinamento\TreinamentoSOLID\SubstituicaoDeLiskov\obj\Debug\netcoreapp3.1\SubstituicaoDeLiskov.csprojAssemblyReference.cache
+C:\WorkMatheusBorges\Treinamento\TreinamentoSOLID\SubstituicaoDeLiskov\obj\Debug\netcoreapp3.1\SubstituicaoDeLiskov.AssemblyInfoInputs.cache
+C:\WorkMatheusBorges\Treinamento\TreinamentoSOLID\SubstituicaoDeLiskov\obj\Debug\netcoreapp3.1\SubstituicaoDeLiskov.AssemblyInfo.cs
+C:\WorkMatheusBorges\Treinamento\TreinamentoSOLID\SubstituicaoDeLiskov\obj\Debug\netcoreapp3.1\SubstituicaoDeLiskov.csproj.CoreCompileInputs.cache
+C:\WorkMatheusBorges\Treinamento\TreinamentoSOLID\SubstituicaoDeLiskov\obj\Debug\netcoreapp3.1\SubstituicaoDeLiskov.dll
+C:\WorkMatheusBorges\Treinamento\TreinamentoSOLID\SubstituicaoDeLiskov\obj\Debug\netcoreapp3.1\SubstituicaoDeLiskov.pdb
+C:\WorkMatheusBorges\Treinamento\TreinamentoSOLID\SubstituicaoDeLiskov\obj\Debug\netcoreapp3.1\SubstituicaoDeLiskov.genruntimeconfig.cache
