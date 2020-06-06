@@ -16,6 +16,13 @@ namespace TreinamentoSOLID
         
         public Bairro Bairro{ get; set; }
 
-
+        public Endereco(int identificador, string logradouro, string numero, string complemento, Bairro bairro)
+        {
+            Identificador = identificador;
+            Logradouro = logradouro;
+            Numero = numero;
+            Complemento = complemento;
+            Bairro = bairro;
+        }
     }
 }

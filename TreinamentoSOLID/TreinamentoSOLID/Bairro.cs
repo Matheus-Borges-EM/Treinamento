@@ -7,5 +7,12 @@
         public string Descricao { get; set; }
         
         public Cidade Cidade { get; set; }
+
+        public Bairro(int identificador, string descricao, Cidade cidade)
+        {
+            Identificador = identificador;
+            Descricao = descricao;
+            Cidade = cidade;
+        }
     }
 }
