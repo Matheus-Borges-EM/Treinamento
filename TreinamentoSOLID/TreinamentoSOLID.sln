@@ -5,6 +5,13 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleResponsability", "SingleResponsability\SingleResponsability.csproj", "{D61FA9B5-9B3A-49F7-B3BA-58C1E6B98F24}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A96091B8-E3CD-4A0C-A253-D7A286A73C47}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Users\Escolar Manager\Desktop\ExemploOCP\ViolacaoOCP.csproj = ..\..\..\Users\Escolar Manager\Desktop\ExemploOCP\ViolacaoOCP.csproj
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViolacaoOCP", "..\..\..\Users\Escolar Manager\Desktop\ExemploOCP\ViolacaoOCP.csproj", "{8442088B-5E68-4C39-A168-167AC8DD6738}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +22,10 @@ Global
 		{D61FA9B5-9B3A-49F7-B3BA-58C1E6B98F24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D61FA9B5-9B3A-49F7-B3BA-58C1E6B98F24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D61FA9B5-9B3A-49F7-B3BA-58C1E6B98F24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8442088B-5E68-4C39-A168-167AC8DD6738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8442088B-5E68-4C39-A168-167AC8DD6738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8442088B-5E68-4C39-A168-167AC8DD6738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8442088B-5E68-4C39-A168-167AC8DD6738}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
