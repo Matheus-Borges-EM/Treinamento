@@ -6,6 +6,6 @@ namespace Strategy
 {
     public interface IVeiculo
     {
-
+        public string descricaoTipo { get; set; }
     }
 }

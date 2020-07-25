@@ -6,5 +6,11 @@ namespace Strategy
 {
     public class Passeio : IVeiculo
     {
+        public string descricaoTipo { get; set; }
+
+        public Passeio()
+        {
+            descricaoTipo = "Veiculo de passeio";
+        }
     }
 }

@@ -6,8 +6,6 @@ namespace Strategy
 {
     public interface IEstrategiaDeCobranca
     {
-        public string descricaoEstrategia { get; set; }
-
         public string ObtenhaEstrategia();
     }
 

@@ -1,4 +1,6 @@
 ﻿
+using Strategy.Estrategias;
+
 namespace Strategy
 {
     public class ContextoDeCobranca
@@ -7,15 +9,21 @@ namespace Strategy
 
         public void InicializeEstrategia(IVeiculo veiculo)
         {
-            if (veiculo is Passeio)
-            {
-                Estrategia = new EstrategiaParaPasseio();
-            }
+            var ehPorDia = true;
+            var ehPorHora = true;
 
-            else if (veiculo is Carga)
+            if (ehPorHora)
             {
-                Estrategia = new EstrategiaCobrancaCarga();
-            }            
+                Estrategia = new EstrategiaPorHora(veiculo);
+            }
+            else if (ehPorDia)
+            {
+                Estrategia = new EstrategiaPorDia(veiculo);
+            }
+            else
+            {
+                Estrategia = new EstrategiaPorMes(veiculo);
+            }
         }
 
         public string ExecuteEstrategia()
