@@ -1,0 +1,13 @@
+C:\WorkMatheusBorges\Treinamento\DesignPatterns\DesignPatternsMatheus\bin\Debug\netcoreapp3.1\Singleton.exe
+C:\WorkMatheusBorges\Treinamento\DesignPatterns\DesignPatternsMatheus\bin\Debug\netcoreapp3.1\Singleton.deps.json
+C:\WorkMatheusBorges\Treinamento\DesignPatterns\DesignPatternsMatheus\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.json
+C:\WorkMatheusBorges\Treinamento\DesignPatterns\DesignPatternsMatheus\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.dev.json
+C:\WorkMatheusBorges\Treinamento\DesignPatterns\DesignPatternsMatheus\bin\Debug\netcoreapp3.1\Singleton.dll
+C:\WorkMatheusBorges\Treinamento\DesignPatterns\DesignPatternsMatheus\bin\Debug\netcoreapp3.1\Singleton.pdb
+C:\WorkMatheusBorges\Treinamento\DesignPatterns\DesignPatternsMatheus\obj\Debug\netcoreapp3.1\Singleton.csprojAssemblyReference.cache
+C:\WorkMatheusBorges\Treinamento\DesignPatterns\DesignPatternsMatheus\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfoInputs.cache
+C:\WorkMatheusBorges\Treinamento\DesignPatterns\DesignPatternsMatheus\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfo.cs
+C:\WorkMatheusBorges\Treinamento\DesignPatterns\DesignPatternsMatheus\obj\Debug\netcoreapp3.1\Singleton.csproj.CoreCompileInputs.cache
+C:\WorkMatheusBorges\Treinamento\DesignPatterns\DesignPatternsMatheus\obj\Debug\netcoreapp3.1\Singleton.dll
+C:\WorkMatheusBorges\Treinamento\DesignPatterns\DesignPatternsMatheus\obj\Debug\netcoreapp3.1\Singleton.pdb
+C:\WorkMatheusBorges\Treinamento\DesignPatterns\DesignPatternsMatheus\obj\Debug\netcoreapp3.1\Singleton.genruntimeconfig.cache

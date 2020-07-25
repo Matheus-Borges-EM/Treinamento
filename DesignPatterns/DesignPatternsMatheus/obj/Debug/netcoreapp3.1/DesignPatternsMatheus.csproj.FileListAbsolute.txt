@@ -1,0 +1,13 @@
+C:\WorkMatheusBorges\Treinamento\DesignPatterns\DesignPatternsMatheus\bin\Debug\netcoreapp3.1\DesignPatternsMatheus.exe
+C:\WorkMatheusBorges\Treinamento\DesignPatterns\DesignPatternsMatheus\bin\Debug\netcoreapp3.1\DesignPatternsMatheus.deps.json
+C:\WorkMatheusBorges\Treinamento\DesignPatterns\DesignPatternsMatheus\bin\Debug\netcoreapp3.1\DesignPatternsMatheus.runtimeconfig.json
+C:\WorkMatheusBorges\Treinamento\DesignPatterns\DesignPatternsMatheus\bin\Debug\netcoreapp3.1\DesignPatternsMatheus.runtimeconfig.dev.json
+C:\WorkMatheusBorges\Treinamento\DesignPatterns\DesignPatternsMatheus\bin\Debug\netcoreapp3.1\DesignPatternsMatheus.dll
+C:\WorkMatheusBorges\Treinamento\DesignPatterns\DesignPatternsMatheus\bin\Debug\netcoreapp3.1\DesignPatternsMatheus.pdb
+C:\WorkMatheusBorges\Treinamento\DesignPatterns\DesignPatternsMatheus\obj\Debug\netcoreapp3.1\DesignPatternsMatheus.csprojAssemblyReference.cache
+C:\WorkMatheusBorges\Treinamento\DesignPatterns\DesignPatternsMatheus\obj\Debug\netcoreapp3.1\DesignPatternsMatheus.AssemblyInfoInputs.cache
+C:\WorkMatheusBorges\Treinamento\DesignPatterns\DesignPatternsMatheus\obj\Debug\netcoreapp3.1\DesignPatternsMatheus.AssemblyInfo.cs
+C:\WorkMatheusBorges\Treinamento\DesignPatterns\DesignPatternsMatheus\obj\Debug\netcoreapp3.1\DesignPatternsMatheus.csproj.CoreCompileInputs.cache
+C:\WorkMatheusBorges\Treinamento\DesignPatterns\DesignPatternsMatheus\obj\Debug\netcoreapp3.1\DesignPatternsMatheus.dll
+C:\WorkMatheusBorges\Treinamento\DesignPatterns\DesignPatternsMatheus\obj\Debug\netcoreapp3.1\DesignPatternsMatheus.pdb
+C:\WorkMatheusBorges\Treinamento\DesignPatterns\DesignPatternsMatheus\obj\Debug\netcoreapp3.1\DesignPatternsMatheus.genruntimeconfig.cache
