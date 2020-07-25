@@ -1,0 +1,7 @@
+C:\Users\Usuário\source\repos\PrincipiosSolid\ExemploOCP\bin\Debug\ExemploOCP.exe.config
+C:\Users\Usuário\source\repos\PrincipiosSolid\ExemploOCP\bin\Debug\ExemploOCP.exe
+C:\Users\Usuário\source\repos\PrincipiosSolid\ExemploOCP\bin\Debug\ExemploOCP.pdb
+C:\Users\Usuário\source\repos\PrincipiosSolid\ExemploOCP\obj\Debug\ExemploOCP.csprojAssemblyReference.cache
+C:\Users\Usuário\source\repos\PrincipiosSolid\ExemploOCP\obj\Debug\ExemploOCP.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\PrincipiosSolid\ExemploOCP\obj\Debug\ExemploOCP.exe
+C:\Users\Usuário\source\repos\PrincipiosSolid\ExemploOCP\obj\Debug\ExemploOCP.pdb

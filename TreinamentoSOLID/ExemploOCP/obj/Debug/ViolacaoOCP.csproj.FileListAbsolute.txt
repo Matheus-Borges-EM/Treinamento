@@ -1,0 +1,14 @@
+C:\Users\Usuário\source\repos\PrincipiosSolid\ExemploOCP\bin\Debug\ExemploOCP.exe.config
+C:\Users\Usuário\source\repos\PrincipiosSolid\ExemploOCP\bin\Debug\ExemploOCP.exe
+C:\Users\Usuário\source\repos\PrincipiosSolid\ExemploOCP\bin\Debug\ExemploOCP.pdb
+C:\Users\Usuário\source\repos\PrincipiosSolid\ExemploOCP\obj\Debug\ViolacaoOCP.csprojAssemblyReference.cache
+C:\Users\Usuário\source\repos\PrincipiosSolid\ExemploOCP\obj\Debug\ViolacaoOCP.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\PrincipiosSolid\ExemploOCP\obj\Debug\ExemploOCP.exe
+C:\Users\Usuário\source\repos\PrincipiosSolid\ExemploOCP\obj\Debug\ExemploOCP.pdb
+C:\Users\Escolar Manager\Desktop\ExemploOCP\bin\Debug\ExemploOCP.exe.config
+C:\Users\Escolar Manager\Desktop\ExemploOCP\bin\Debug\ExemploOCP.exe
+C:\Users\Escolar Manager\Desktop\ExemploOCP\bin\Debug\ExemploOCP.pdb
+C:\Users\Escolar Manager\Desktop\ExemploOCP\obj\Debug\ViolacaoOCP.csprojAssemblyReference.cache
+C:\Users\Escolar Manager\Desktop\ExemploOCP\obj\Debug\ViolacaoOCP.csproj.CoreCompileInputs.cache
+C:\Users\Escolar Manager\Desktop\ExemploOCP\obj\Debug\ExemploOCP.exe
+C:\Users\Escolar Manager\Desktop\ExemploOCP\obj\Debug\ExemploOCP.pdb
