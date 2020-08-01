@@ -11,3 +11,16 @@ C:\Users\mathe\OneDrive\Área de Trabalho\STUDY STATION\Treinamentos\Treinamento
 C:\Users\mathe\OneDrive\Área de Trabalho\STUDY STATION\Treinamentos\Treinamento\DesignPatterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.dll
 C:\Users\mathe\OneDrive\Área de Trabalho\STUDY STATION\Treinamentos\Treinamento\DesignPatterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.pdb
 C:\Users\mathe\OneDrive\Área de Trabalho\STUDY STATION\Treinamentos\Treinamento\DesignPatterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.genruntimeconfig.cache
+C:\WorkMatheusBorges\Treinamento\DesignPatterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.exe
+C:\WorkMatheusBorges\Treinamento\DesignPatterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.deps.json
+C:\WorkMatheusBorges\Treinamento\DesignPatterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.json
+C:\WorkMatheusBorges\Treinamento\DesignPatterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.dev.json
+C:\WorkMatheusBorges\Treinamento\DesignPatterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.dll
+C:\WorkMatheusBorges\Treinamento\DesignPatterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.pdb
+C:\WorkMatheusBorges\Treinamento\DesignPatterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.csprojAssemblyReference.cache
+C:\WorkMatheusBorges\Treinamento\DesignPatterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfoInputs.cache
+C:\WorkMatheusBorges\Treinamento\DesignPatterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfo.cs
+C:\WorkMatheusBorges\Treinamento\DesignPatterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.csproj.CoreCompileInputs.cache
+C:\WorkMatheusBorges\Treinamento\DesignPatterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.dll
+C:\WorkMatheusBorges\Treinamento\DesignPatterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.pdb
+C:\WorkMatheusBorges\Treinamento\DesignPatterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.genruntimeconfig.cache
