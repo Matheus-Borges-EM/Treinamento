@@ -6,11 +6,12 @@ namespace Adapter
 {
     public class ApiDeTerceiros
     {
-        public TipoDeDadosDeTerceiros dadosDeTerceiros { get; set; }
-
-        public void ExecuteAcaoDadosDeTerceitos()
+        public void ExecuteAcaoDadosDeTerceitos(TipoDeDadosDeTerceiros dadosDeTerceiros)
         {
-            Console.WriteLine("Executada uma ação na api de terceiros");
+            if (dadosDeTerceiros is TipoDeDadosDeTerceiros)
+            {
+                Console.WriteLine("Executada uma ação na api de terceiros");
+            }
         }
 
     }

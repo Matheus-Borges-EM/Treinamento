@@ -8,15 +8,15 @@ namespace Adapter
     {
         public ApiDeTerceiros ApiDeTerceiros = new ApiDeTerceiros();
 
-        public MeuTipoDeDado AdapteDadosDeTerceiro(TipoDeDadosDeTerceiros dadosDeTerceiros)
+        public TipoDeDadosDeTerceiros AdapteDadosDeTerceiro(MeuTipoDeDado meuTipoDeDado)
         {
             Console.WriteLine("Adapta meus dados para dados de terceiros");
-            return new MeuTipoDeDado();
+            return new TipoDeDadosDeTerceiros();
         }
 
         public override void ExecuteAcao(MeuTipoDeDado meuTipoDeDado)
         {
-            ApiDeTerceiros.ExecuteAcaoDadosDeTerceitos();
+            ApiDeTerceiros.ExecuteAcaoDadosDeTerceitos(AdapteDadosDeTerceiro(meuTipoDeDado));
         }
     }
 }

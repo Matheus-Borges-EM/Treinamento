@@ -11,10 +11,5 @@ namespace Adapter
             cliente.ExecuteAcao(meuTipoDeDado);
             Console.ReadKey();
         }
-
-        public void ExecuteAcao(MeuTipoDeDado meuTipoDeDado)
-        {
-            Console.WriteLine("Executa processamento com meus dados");
-        }
     }
 }
