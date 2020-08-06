@@ -8,15 +8,17 @@ namespace Adapter
     {
         public ApiDeTerceiros ApiDeTerceiros = new ApiDeTerceiros();
 
-        public TipoDeDadosDeTerceiros AdapteDadosDeTerceiro(MeuTipoDeDado meuTipoDeDado)
+        public DadosEmJson AdapteXmlParaJson(DadosEmXML dadosEmXml)
         {
-            Console.WriteLine("Adapta meus dados para dados de terceiros");
-            return new TipoDeDadosDeTerceiros();
-        }
+            Console.WriteLine("Adapta dados de XML para Json");
+            return new DadosEmJson(dadosEmXml.Conteudo);
+        }        
 
-        public override void ExecuteAcao(MeuTipoDeDado meuTipoDeDado)
+        public void ExecuteAcao(DadosEmXML dadosEmXml)
         {
-            ApiDeTerceiros.ExecuteAcaoDadosDeTerceitos(AdapteDadosDeTerceiro(meuTipoDeDado));
+            var dadosAdaptadosParaJson = AdapteXmlParaJson(dadosEmXml);
+
+            ApiDeTerceiros.GereGraficosBonitosUsandoJson(dadosAdaptadosParaJson);
         }
     }
 }

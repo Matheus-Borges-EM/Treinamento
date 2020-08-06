@@ -6,13 +6,9 @@ namespace Adapter
 {
     public class ApiDeTerceiros
     {
-        public void ExecuteAcaoDadosDeTerceitos(TipoDeDadosDeTerceiros dadosDeTerceiros)
+        public void GereGraficosBonitosUsandoJson(DadosEmJson dadosDeTerceiros)
         {
-            if (dadosDeTerceiros is TipoDeDadosDeTerceiros)
-            {
-                Console.WriteLine("Executada uma ação na api de terceiros");
-            }
+            Console.WriteLine("Gera gráficos bonitos");
         }
-
     }
 }

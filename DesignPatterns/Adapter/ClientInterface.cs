@@ -4,11 +4,8 @@ using System.Text;
 
 namespace Adapter
 {
-    public class ClientInterface
+    public interface ClientInterface
     {
-        public virtual void ExecuteAcao(MeuTipoDeDado meuTipoDeDado)
-        {
-            Console.WriteLine("Executa ação");
-        }
+        public void ExecuteAcao(DadosEmXML dadosEmXml);        
     }
 }
