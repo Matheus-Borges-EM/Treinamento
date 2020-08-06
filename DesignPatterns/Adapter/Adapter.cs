@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Adapter
 {
-    public class Adapter : ClientInterface
+    public class Adapter : ClientBase
     {
         public ApiDeTerceiros ApiDeTerceiros = new ApiDeTerceiros();
 

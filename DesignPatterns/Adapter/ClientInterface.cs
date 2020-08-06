@@ -1,11 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Reflection;
 using System.Text;
 
 namespace Adapter
 {
-    public interface ClientInterface
+    public interface ClientBase
     {
-        public void ExecuteAcao(DadosEmXML dadosEmXml);        
+        public virtual void ExecuteAcao(DadosEmXML dadosEmXml);
     }
 }
